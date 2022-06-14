@@ -1,0 +1,44 @@
+So yesterday night, I am watching @TechnoTimLive
+video on  #100DaysOfHomeLab. I am already using a home lab. Previously I am having a physical home lab but currently I am having the Virtual Lab.  So why not let build and learn something in public.
+
+#1 🧵 
+So below are topics that I want to learn and enhance my IT skills.
+
+1️⃣ Devops
+2️⃣ Networking
+3️⃣ Security
+
+#2 🧵
+So we have the goal about what we want to learn but let see about my machine. What I am using for this series. I am using a old 
+@ASUS
+ laptop with the below specs.
+
+1️⃣ 256gb SSD
+2️⃣ 1tb HDD
+3️⃣ i3 Processor 
+4️⃣ 8 GB RAM
+
+#3🧵
+So I talk about my goal and home lab device that I am using let talk about the services that I am so excited to run and test.
+
+1️⃣ Docker
+2️⃣ Kubernetes
+3️⃣ Web Server
+4️⃣ Monitoring services 
+
+Will try and cover the other tools as well this is just a base line.
+
+#4 🧵
+So how I am planning to run my home server. Will use a hypervisor solution called VirtualBox and Spin up few Vm like
+
+1️⃣ Linux VM
+2️⃣ MiniKube VM
+3️⃣ Metasploit VM
+4️⃣ Kali VM
+
+#5 🧵
+So these are all the things that I am excited with the time I will add lots of things and will share everything. what I did and what I build. What my plan is 
+
+1️⃣ Learn something new everyday
+2️⃣ invest around 30-40 min every day
+3️⃣ share my knowledge with others
