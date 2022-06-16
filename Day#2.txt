@@ -1,0 +1,14 @@
+Day#2 of #100DaysOfHomeLab
+
+So yesterday I setup my docker host. Today I play around with the portainer. Having some issue while installing the portainer. But at last it is install. 
+
+🧵 Thead Ahead
+
+Also planning to create a single vagrant file to setup a docker host and install portainer into that. That will be so fun.
+#100DaysOfHomeLab
+
+Also Setup a WordPress site using the portainer, It is way easy and learn lots of that. It created two container one for the DB and another for the Apache Service.
+#100DaysOfHomeLab
+
+User the docker compose method to deploy the WordPress site. Also learn about the stack. Still learning lots of things about the portainer.
+#100DaysOfHomeLab
