@@ -1,0 +1,30 @@
+Day#3 of #100DaysOfHomeLab
+
+Today I install the portainer in my docker host and host a WordPress website. It so much fun to play with the portainer and using the portainer  it is so easy to manage the container.
+
+🧵 Thead Ahead
+
+Prerequisites of portainer
+
+1️⃣ Centos 7.x, Centos 8.x, Ubuntu 18.04, Ubuntu 20.04
+2️⃣ 1024MB or above Ram.
+3️⃣ 20GB Disk Space.
+4️⃣ 1 vCPU or above CPU.
+5️⃣ Docker engine Can be local or remote
+6️⃣ Linux, macOS or Windows docker host machine
+7️⃣ Internet connection
+
+#100DaysOfHomeLab
+
+What Portainer can do
+
+1️⃣ Manage the Containers.
+2️⃣ Quickly deploy the containerized application
+3️⃣ Manage the network and their security
+4️⃣ Easy user management
+
+#100DaysOfHomeLab
+
+Once you login into the portainer you will find the below dashboard. Where you can find the list of nodes that you have and how many containers. You will also find the container states from this dashboard.
+
+#100DaysOfHomeLab
