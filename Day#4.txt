@@ -1,0 +1,29 @@
+Day#4 of #100DaysOfHomeLab
+
+So now its time to spin some container in our docker machine  and find out  how we can setup those. So After finish the collage I was a freelance developer for some time. Build various website on WordPress. So thought to host the WP. 
+
+🧵 Thread Ahead
+
+As we all know WordPress is a free and open-source content management system written in PHP and paired with a MySQL or MariaDB database.
+#100DaysOfHomeLab
+
+
+For WordPress there are two main component. One is the DB server and another one is the Lamp or Php server to run the WordPress.  So I checked in the docker hub and find out the official docker image.
+
+#100DaysOfHomeLab
+
+
+So once I have that docker image with me. Its just a easy task for me.
+
+1️⃣ Create a stack in portainer.
+2️⃣ Paste the docker-hub code.
+3️⃣ Hit on deploy
+
+After that we have our WP website ready
+#100DaysOfHomeLab
+
+Once you have the container setup you can access the website from the below URL:
+
+Server_ip:8080
+
+#100DaysOfHomeLab
